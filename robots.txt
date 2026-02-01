@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://anushabetha14.github.io/weatherApplication/sitemap.xml
+Sitemap: https://anushabetha14.github.io/weather-app/sitemap.xml
